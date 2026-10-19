@@ -4,7 +4,7 @@
 
 `Radiance.dll` is built on CommonLibSSE NG / CommonLibVR, which is licensed GPL-3.0-or-later with a modding
 exception, so the plugin source in `plugin/` is licensed **GPL-3.0-or-later** as well. The full licence text is in
-[COPYING.txt](COPYING.txt).
+[plugin/COPYING.txt](plugin/COPYING.txt).
 
 ## Everything else: source available, all rights reserved
 
