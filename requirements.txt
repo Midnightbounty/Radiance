@@ -1,0 +1,5 @@
+numpy==1.26.4
+numba==0.65.1
+llvmlite==0.47.0
+pillow==12.2.0
+pyinstaller==6.21.0

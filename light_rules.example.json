@@ -1,0 +1,10 @@
+{
+  "_help": "Copy to light_rules.json to use. Regexes match the light's EditorID; first matching class wins (fill, daylight, emitter). Unmatched lights are emitters if a visible fixture mesh is within fixture_distance units, otherwise fill. overrides take an EditorID or a reference id like 01ABCD:skyrim.esm.",
+  "fill": ["MyModAmbientFill"],
+  "daylight": [],
+  "emitter": [],
+  "fixture_distance": 72,
+  "overrides": {
+    "Lux_FarmSpot100": "fill"
+  }
+}
